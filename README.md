@@ -1,8 +1,8 @@
-\# CSC 441 -- Grace Scaglione
+# CSC 441 -- Grace Scaglione
 
 
 
-\## About me
+## About me
 
 * \*\*Major: Computer Science\*\*
 * \*\*Year: Senior\*\*

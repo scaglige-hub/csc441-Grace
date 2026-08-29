@@ -22,7 +22,9 @@
 
 
 
-\## Notes to future me
+\## Notes to future me:
+
+* git status, git add, git commit -m, git push
 
 Things I got stuck on, so I don't get stuck again:
 

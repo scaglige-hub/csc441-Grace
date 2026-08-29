@@ -4,21 +4,21 @@
 
 ## About me
 
-- **Major: Computer Science**
-- **Year: Senior**
-- **What I want to build: I'm interested in websites, but also am still entirely deciding.**
+* **Major: Computer Science**
+* **Year: Senior**
+* **What I want to build: I'm interested in websites, but also am still entirely deciding.**
 
 
 
-## What I'm hoping to learn this semester is Kotlin! It seems like a very interesting language to learn. 
+## What I'm hoping to learn this semester is Kotlin! It seems like a very interesting language to learn.
 
 
 
 ## My setup:
 
-- **Computer: Windows**
-- **GitHub username: scaglione-hub**
-- **Git installed: yes**
+* **Computer: Windows**
+* **GitHub username: scaglione-hub**
+* **Git installed: yes**
 
 
 
@@ -27,4 +27,17 @@
 Things I got stuck on, so I don't get stuck again:
 
 * The differences between Powershell commands for Mac and Windows
+
+
+
+\## Terminal commands I learned
+
+* pwd
+* ls
+* cd
+* mkdir
+
+
+
+
 

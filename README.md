@@ -47,3 +47,12 @@ Things I got stuck on, so I don't get stuck again:
 * Make a website
 * Get a good grade
 
+
+
+\## Tools I have installed:
+
+* \[Yes] Git
+* \[No] IntelliJ IDEA Community Edition
+* \[No] Android Studio
+* \[No] VS Code
+

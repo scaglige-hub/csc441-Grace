@@ -41,7 +41,7 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## My goals got this course:
+## My goals got this course:
 
 * Make an app
 * Make a website
@@ -49,10 +49,10 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
-\## Tools I have installed:
+## Tools I have installed:
 
-* \[Yes] Git
-* \[No] IntelliJ IDEA Community Edition
-* \[No] Android Studio
-* \[No] VS Code
+* [Yes] Git
+* [No] IntelliJ IDEA Community Edition
+* [No] Android Studio
+* [No] VS Code
 

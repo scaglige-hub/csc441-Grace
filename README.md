@@ -41,5 +41,9 @@ Things I got stuck on, so I don't get stuck again:
 
 
 
+\## My goals got this course:
 
+* Make an app
+* Make a website
+* Get a good grade
 

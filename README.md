@@ -51,8 +51,14 @@ Things I got stuck on, so I don't get stuck again:
 
 ## Tools I have installed:
 
-* [Yes] Git
-* [No] IntelliJ IDEA Community Edition
-* [No] Android Studio
-* [No] VS Code
+* \[Yes] Git
+* \[No] IntelliJ IDEA Community Edition
+* \[No] Android Studio
+* \[No] VS Code
+
+
+
+\## Status
+
+Working through branches. Slightly confused but getting there.
 

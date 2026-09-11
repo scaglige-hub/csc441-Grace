@@ -28,12 +28,12 @@ fun main() {
     println("$name learns $course")
     //println(name + " " + "teaches" + " " + course)
     //println(name + " teaches " + course)
-    println("Next tear: ${age + 1}")
+    println("Next year: ${age + 1}")
     println("name length: ${name.length}")
 
     println("---Step 5: Reading input---")
     print("What's your name? ")
-    val yourName = readlnorNull()
+    val yourName = readlnOrNull()
     println("Hello, $yourName")
 
 

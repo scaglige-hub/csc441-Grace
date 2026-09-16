@@ -8,6 +8,7 @@ fun main() {
     favoriteThing()
 
     println("---Requirement 3: takes one parameter---")
+    pickOne(2)
 
     println("---Requirement 4: short---")
 
@@ -23,6 +24,11 @@ fun favoriteThing(): String {
 }
 
 fun pickOne(number: Int): String {
+    return when (number) {
+        1 -> "first choice"
+        2 -> "second choice"
+        else -> "different choice"
+    }
 
 }
 
